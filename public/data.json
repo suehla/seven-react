@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to C Programming",
+        "image": " https://i.ibb.co/VMrCJF6/Rectangle-2-2.png",
+        "prize": 15000,
+        "credit": "1hr"
+        
+    },
+    {
+        "id": 2,
+        "name": "Introduction to Algorithms",
+        "image": "https://i.ibb.co/f2qw091/Rectangle-2-3.png",
+        "prize": 25000,
+        "credit": "2hr"
+    },
+    {
+        "id": 3,
+        "name": "Introduction to C++ for DSA",
+        "image": "https://i.ibb.co/jZgQQx7/Rectangle-2-4.png",
+        "prize": 10000,
+        "credit": "10hr"
+    },
+    {
+        "id": 4,
+        "name": "Basic Data Structures",
+        "image": "https://i.ibb.co/gPvDQqm/Rectangle-3.png",
+        "prize": 35000,
+        "credit": "5hr"
+    },
+    {
+        "id": 5,
+        "name": "Introduction to OOP Python",
+        "image": "https://i.ibb.co/XXkJTSZ/Rectangle-2.png",
+        "prize": 19000,
+        "credit": "5hr"
+    },
+    {
+        "id": 6,
+        "name": "Software Engineering",
+        "image": "https://i.ibb.co/QmjZtzF/Rectangle-2-5.png",
+        "prize": 23000,
+        "credit": "2hr"
+    },
+    {
+        "id": 7,
+        "name": "AWS, Cloud Computing",
+        "image": "https://i.ibb.co/zGmPZtk/Rectangle-3-1.png",
+        "prize": 35000,
+        "credit": "1hr"
+    },
+    {
+        "id": 8,
+        "name": "Database (MySQL)",
+        "image": "https://i.ibb.co/JtfcxD5/Rectangle-2-1.png",
+        "prize": 19000,
+        "credit": "5hr"
+    },
+    {
+        "id": 9,
+        "name": "Problem-Solving Part",
+        "image": "https://i.ibb.co/qDsz6Cc/Rectangle-2-6.png",
+        "prize": 23000,
+        "credit": "2hr"
+    }
+]

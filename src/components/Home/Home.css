@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(10, 48, 48);
+}
+
+.card{
+    
+    height: 420px;
+    width: 300px;
+    border: 1px solid rgb(5, 1, 24);
+    border-radius: 15px;
+}
+.cards{
+    height: 460px;
+    width: 250px;
+    border:1px solid rgb(90, 82, 82);
+    border-radius: 15px;
+}
+.photo{
+    width:270px ;
+    margin-top:13px ;
+    height: 135px;
+    border-radius: 3px;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    background-color: rgb(5, 1, 24);
+    width: 250px;
+}
+.home-container{
+    display: flex;
+    
+}
+.card-container{
+    width: 975px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.svg{
+    display: flex;
+    gap: 5px;
+}
+.svg-name{
+    margin-top: 17px;
+    
+}
